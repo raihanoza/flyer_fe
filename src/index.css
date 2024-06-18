@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-forgotpassword {
+  background: rgb(153, 157, 156);
+  background: linear-gradient(0deg, rgba(153, 157, 156, 1) 0%, rgba(253, 222, 204, 1) 100%);
+}
